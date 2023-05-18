@@ -13,4 +13,5 @@ if (times > add) {
 
 if (math = true) {
  result = "true"
+ alert: ("math is correct")
 }
