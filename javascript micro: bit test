@@ -1,0 +1,11 @@
+let variable = 0
+basic.showString("" + (variable))
+basic.forever(function () {
+    if ((1 as any) != (2 as any)) {
+        variable += 1
+        basic.showString("" + (variable))
+    }
+})
+
+
+//this scipt is to be used at https://makecode.microbit.org//
